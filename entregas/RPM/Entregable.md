@@ -1,6 +1,6 @@
 # Entregable · Sesión 3 — Copilotos IA
 
-- **Nombre / usuario:**
+- **Nombre / usuario:** Rubén (rpuentemartinez)
 - **Fecha de entrega:**22/06/2026 (Entregado por error en otro Repo en esa fecha)
 - **Repo auditado en la Parte A** (solo tipo/contexto, NO el código): _p. ej. "monorepo TypeScript de trabajo, ~8 meses"_
 Repo de un proyecto propio en C#/Blazor
